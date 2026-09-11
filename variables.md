@@ -1,6 +1,6 @@
 # Variaveis de verificação 
 
-## Variaveis adotadas
+## Parametros adotadas
 
 | Variável | Faixa segura | Justificativa didática |
 | --- | --- | --- |
@@ -10,4 +10,5 @@
 | Nível de energia | 70% a 100% | Garante margem operacional mínima para o início da missão. |
 | Pressão dos tanques | 30 a 40 bar | Mantém os tanques em uma faixa segura de operação. |
 | Módulos críticos | Todos em OK | Navegação, comunicação, propulsão e suporte de vida devem estar ativos. |
+
 
