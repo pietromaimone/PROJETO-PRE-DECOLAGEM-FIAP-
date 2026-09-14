@@ -60,7 +60,6 @@ Texto de reflexão abordando:
 python main.py
 ```
 
-> Ajuste o nome do arquivo/comando acima conforme a estrutura real do seu script.
 
 ## 📊 Exemplo de saída esperada
 
