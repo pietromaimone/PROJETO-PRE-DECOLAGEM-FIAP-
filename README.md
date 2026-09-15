@@ -1,17 +1,17 @@
-# 🚀 Pra Decolagem
+# Pra Decolagem
 
 Projeto de simulação de verificação pré-lançamento de uma espaçonave, integrando **telemetria**, **algoritmos de decisão**, **análise energética** e **inteligência artificial** para determinar se as condições são seguras para decolagem.
 
-## 📋 Sobre o projeto
+##  Sobre o projeto
 
 O sistema simula a leitura de dados de sensores de uma nave espacial e, a partir de faixas de segurança predefinidas, decide automaticamente entre:
 
-- ✅ **PRONTO PARA DECOLAR**
-- ❌ **DECOLAGEM ABORTADA**
+-  **PRONTO PARA DECOLAR**
+-  **DECOLAGEM ABORTADA**
 
 Além da lógica de decisão, o projeto inclui uma análise da autonomia energética da nave e uma etapa de análise assistida por IA para classificação de dados e identificação de anomalias.
 
-## 🗂️ Estrutura do projeto
+##  Estrutura do projeto
 
 ### 1.1 Organização e descrição da telemetria
 Interpretação dos dados recebidos dos sensores da nave:
@@ -54,14 +54,14 @@ Texto de reflexão abordando:
 - **Python** — implementação do algoritmo de verificação e simulação
 - **IA** — apoio à análise de dados e identificação de riscos
 
-## ▶️ Como executar
+## Como executar
 
 ```bash
 python main.py
 ```
 
 
-## 📊 Exemplo de saída esperada
+## Exemplo de saída esperada
 
 ```
 Verificando telemetria...
@@ -72,9 +72,9 @@ Nível de energia: OK
 Pressão dos tanques: OK
 Status dos módulos: OK
 
->>> PRONTO PARA DECOLAR ✅
+>>> PRONTO PARA DECOLAR 
 ```
 
-## 📄 Licença
+## Licença
 
 Projeto acadêmico/educacional — livre para estudo e adaptação.
