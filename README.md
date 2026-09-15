@@ -49,7 +49,7 @@ Texto de reflexão abordando:
 - Impacto social da exploração espacial
 - Sustentabilidade tecnológica
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Python** — implementação do algoritmo de verificação e simulação
 - **IA** — apoio à análise de dados e identificação de riscos
