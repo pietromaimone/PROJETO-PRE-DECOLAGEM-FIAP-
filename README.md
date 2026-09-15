@@ -33,7 +33,7 @@ Implementação da lógica do algoritmo em Python, simulando:
 a implementacao do algoritimo foi feito pelo script verificacao.py tambem foi criado um banco de dados com dados aleatorios para medir os paramentros de varios cenarios, e assim ter uma metrica mais variada o banco de dados foi processado pelo script processar_csv.py do mesmo jeito foi feita pela analise energetica 
 
  Estrutura do Projeto
-
+```
 scripts/
 ├── .venv/                      # Ambiente virtual Python
 ├── analise_energetica.py       # Script de análise energética
@@ -41,7 +41,7 @@ scripts/
 ├── main.py                     # Ponto de entrada principal do projeto
 ├── processar_csv.py            # Script de processamento/tratamento do CSV
 └── verificacao.py              # Script de verificação/validação dos dados
-                
+```             
 
 ### 1.4 Análise energética
 Cálculo da autonomia inicial da nave, considerando:
