@@ -39,6 +39,7 @@ scripts/
 ├── analise_energetica.py       # Script de análise energética
 ├── banco_de_dados_real.csv     # Base de dados utilizada
 ├── main.py                     # Ponto de entrada principal do projeto
+├── notebook.ipynb              # arquivo notebook.ipynb
 ├── processar_csv.py            # Script de processamento/tratamento do CSV
 └── verificacao.py              # Script de verificação/validação dos dados
 ```             
