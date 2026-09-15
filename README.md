@@ -57,11 +57,52 @@ Uso de IA para apoiar a tomada de decisão, incluindo:
 - Identificação de possíveis anomalias
 - Sugestões de nível de risco
 
+veja em [analise_IA](analise_IA/analise.md)
 
 ## Tecnologias utilizadas
 
 - **Python** — implementação do algoritmo de verificação e simulação
 - **IA** — apoio à análise de dados e identificação de riscos
 
-## Como executar
+## Como executar o projeto
+
+### 1. Instale o Python
+
+Baixe e instale o Python pelo site oficial:
+https://www.python.org/downloads/
+
+No Windows, marque a opção **Add Python to PATH** durante a instalação.
+
+### 2. Baixe o projeto
+
+Clique em **Code → Download ZIP** no GitHub e extraia os arquivos.
+
+Ou clone o repositório:
+
+```bash
+git clone https://github.com/pietromaimone/PROJETO-PRE-DECOLAGEM-FIAP-.git
+```
+
+### 3. Instale as dependências
+
+Abra o terminal na pasta do projeto e execute:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Execute o programa
+
+Execute o arquivo principal:
+
+```bash
+python nome_do_arquivo.py
+```
+
+Substitua `nome_do_arquivo.py` pelo nome do arquivo principal do projeto.
+
+
+# PRINTS DE EXECUCAO
+
+![EXECUCAO_PRIMARIA](verificacao_cenarios_image.png)
 
