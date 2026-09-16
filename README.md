@@ -104,5 +104,6 @@ Substitua `nome_do_arquivo.py` pelo nome do arquivo principal do projeto.
 
 # PRINTS DE EXECUCAO
 
-![EXECUCAO_PRIMARIA](verificacao_cenarios_image.png)
-
+![EXECUCAO_PRIMARIA](output/verificacao_cenarios_image.png)
+------------------------------------------------------------
+![EXECUCAO_ENERGETICA](output/exmplo_analise_energetica.png)
